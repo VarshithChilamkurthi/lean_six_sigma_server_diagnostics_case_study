@@ -1,6 +1,15 @@
 # Lean Six Sigma DMAIC Case Study
 
 ## Server Diagnostic Process Optimization
+![Lean Six Sigma](https://img.shields.io/badge/Lean%20Six%20Sigma-Green%20Belt-success)
+
+![DMAIC](https://img.shields.io/badge/Methodology-DMAIC-blue)
+
+![Portfolio Project](https://img.shields.io/badge/Project-Portfolio-orange)
+
+![Process Improvement](https://img.shields.io/badge/Focus-Process%20Improvement-brightgreen)
+
+![Data Analysis](https://img.shields.io/badge/Analysis-Statistical-blueviolet)
 
 > **Professional Portfolio Project | Lean Six Sigma Green Belt | Process Improvement | Data Analysis**
 
@@ -15,6 +24,16 @@ The objective was to improve process efficiency by reducing diagnostic turnaroun
 This project was completed as part of a **Lean Six Sigma Green Belt** portfolio and showcases the use of statistical analysis, process improvement methodologies, and quality engineering tools to solve an operational problem using a structured, data-driven approach.
 
 ---
+## Project Snapshot
+
+| Item | Value |
+|------|-------|
+| Methodology | Lean Six Sigma DMAIC |
+| Industry | Data Center Operations (Simulated) |
+| Dataset | 60 Repair Records |
+| KPIs | 3 |
+| Statistical Tests | Two-Sample t-Test, Two-Proportion Test |
+| Primary Improvement | Standardized Diagnostic Workflow |
 
 # Business Problem
 
@@ -125,6 +144,13 @@ Statistical analysis demonstrated:
 - Improved first-pass success trend
 
 ---
+## Key Outcomes
+
+- Reduced simulated diagnostic turnaround time by **24.4%**
+- Reduced process variation by **31.3%**
+- Improved first-pass success from **73.3%** to **90.0%**
+- Reduced average retests by **31.3%**
+- Developed an end-to-end DMAIC project from Define through Control
 
 # Skills Demonstrated
 
