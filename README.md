@@ -149,8 +149,6 @@ Statistical analysis demonstrated:
 lean-six-sigma-server-diagnostics-case-study/
 
 ├── README.md
-├── LICENSE
-├── .gitignore
 │
 ├── docs/
 │   └── Lean_Six_Sigma_DMAIC_Case_Study.pdf
@@ -172,7 +170,8 @@ lean-six-sigma-server-diagnostics-case-study/
 
 The complete case study is available in:
 
-**docs/Lean_Six_Sigma_DMAIC_Case_Study.pdf**
+[Lean_Six_Sigma_DMAIC_Case_Study.pdf](https://github.com/user-attachments/files/29870929/Lean_Six_Sigma_DMAIC_Case_Study.pdf)
+
 
 ---
 
