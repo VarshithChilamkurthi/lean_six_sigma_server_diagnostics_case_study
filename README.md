@@ -74,7 +74,8 @@ The project identified this rework loop as a major contributor to increased turn
 
 ### Process Map
 
-<img width="1536" height="1024" alt="Process_Map" src="https://github.com/user-attachments/assets/c3dcb032-1241-4217-a348-75b2e4b09873" />
+<img width="1479" height="946" alt="Process_Map" src="https://github.com/user-attachments/assets/4506db57-7d6b-4f46-9945-e41ecd6609cc" />
+
 
 
 ---
