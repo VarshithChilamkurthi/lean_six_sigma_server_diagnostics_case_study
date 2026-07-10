@@ -74,7 +74,8 @@ The project identified this rework loop as a major contributor to increased turn
 
 ### Process Map
 
-![Process Map](images/Process_Map.png)
+<img width="1536" height="1024" alt="Process_Map" src="https://github.com/user-attachments/assets/c3dcb032-1241-4217-a348-75b2e4b09873" />
+
 
 ---
 
@@ -92,7 +93,8 @@ Major contributing factors included:
 
 ### Fishbone Diagram
 
-![Fishbone Diagram](images/Fishbone_Diagram.png)
+<img width="1536" height="1024" alt="Fishbone_Diagram" src="https://github.com/user-attachments/assets/230d3ba4-31ee-4974-9c78-ea93c51e17de" />
+
 
 ---
 
@@ -102,15 +104,18 @@ The project evaluated process performance using multiple Lean Six Sigma analytic
 
 ### Histogram
 
-![Histogram](images/Histogram_Diagnostic_Time.png)
+<img width="1200" height="800" alt="Histogram_Diagnostic_Time" src="https://github.com/user-attachments/assets/e3078771-c04e-41ca-9d09-11d992059921" />
+
 
 ### Boxplot
 
-![Boxplot](images/Boxplot_Diagnostic_Time.png)
+<img width="1000" height="800" alt="Boxplot_Diagnostic_Time" src="https://github.com/user-attachments/assets/a0f9d0a5-0188-4d16-ac78-ec53d7eb8886" />
+
 
 ### Pareto Analysis
 
-![Pareto](images/Pareto_Failure_Category.png)
+<img width="1200" height="800" alt="Pareto_Failure_Category" src="https://github.com/user-attachments/assets/ed4e4181-7d15-4e1b-b005-84ec1d62dd6f" />
+
 
 Statistical analysis demonstrated:
 
